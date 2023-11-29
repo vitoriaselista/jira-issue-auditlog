@@ -1,4 +1,4 @@
-## Jira Audit Log CSV  
+## Jira Audit Log CSV
 
 Python script that generates an audit log CSV file for a Jira Issue. The CSV file will contain detailed information about the changes made to the issue, including the author, author account ID, change date, field ID, field type, and changes.
 
